@@ -39,7 +39,7 @@ const CourseForm = () => {
         onSubmit={handleFormSubmission}
         class="d-flex flex-column gap-3 w-100"
       >
-        <h3 className="text-center text-uppercase fw-bold">Course Lists</h3>
+        <h3 className="text-center text-uppercase fw-bold">Course List</h3>
         <div className="w-100">
           <input
             id="courseTitle"
